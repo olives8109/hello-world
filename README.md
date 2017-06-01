@@ -1,4 +1,9 @@
 # hello-world
+# CTI 110 Repository
+Created for M1LAB1
+Olive
+6/1/2017
+
 First repository created to learn how to use Github
 
 Hi classmates and teachers!
